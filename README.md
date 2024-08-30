@@ -1,6 +1,4 @@
-Here’s a GitHub-friendly version of the repository introduction for your Power BI project:
 
----
 
 # Power BI Dashboard Project
 
@@ -36,6 +34,4 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-You can copy and paste this directly into your GitHub repository’s README file. Adjust the repository link and any specific details to match your project.
